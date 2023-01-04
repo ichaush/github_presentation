@@ -1,2 +1,2 @@
 # GitHub Presentation 
-Video Links[^note].
+Video Links
